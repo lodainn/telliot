@@ -6,7 +6,7 @@ description: Here are the nuts and bolts for usinng the CLI
 
 ## Get the CLI
 
-The CLI is provided as a pre-built binary with every release and also as a docker image.
+The Telliot CLI is provided as a pre-built binary with every release and also as a docker image.
 
 ### Run manually
 
